@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Safia Nahhas  
+- Certification: back end devloper  
 
 ## Instructions
 Please replace the placeholders with your details:
